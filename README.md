@@ -70,6 +70,7 @@ The related files:
 
 ### Problem 4
 In this problem, I was asked to design a maze and model it. I just designed a simple linear maze.
+![文字文稿1_00](https://github.com/user-attachments/assets/561e032d-5842-4078-9e0b-00d04f518d99)
 
 
 The related files:
