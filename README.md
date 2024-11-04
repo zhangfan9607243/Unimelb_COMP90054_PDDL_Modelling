@@ -30,11 +30,13 @@ The hero can only take actions if they are alive:
 The hero needs to manage keys and matches carefully, as rooms can only be visited once.
 
 The problems are defined by the following graphs using the legend below:
+<img width="802" alt="截屏2024-11-04 14 04 30" src="https://github.com/user-attachments/assets/7a27e353-c654-4ce0-8de3-f2a800e0ab48">
 
 
 ## Problems
 
 ### Problem 1
+<img width="713" alt="截屏2024-11-04 14 35 20" src="https://github.com/user-attachments/assets/15c5b1ad-ee79-456c-b3d3-85dfe0123ca4">
 
 
 
@@ -46,6 +48,7 @@ The related files:
 
 ### Problem 2
 
+<img width="628" alt="截屏2024-11-04 14 35 31" src="https://github.com/user-attachments/assets/608beec8-f4d1-4a03-8921-f09e4fb4c025">
 
 
 The related files:
@@ -56,6 +59,7 @@ The related files:
 
 ### Problem 3
 
+<img width="1054" alt="截屏2024-11-04 14 35 40" src="https://github.com/user-attachments/assets/4d39c20a-f20e-4a93-8178-18c7a0adb42e">
 
 
 The related files:
@@ -75,14 +79,18 @@ The related files:
 * Solution: `solutions/solution_problem4.txt`
 
 ## Code Instruction
-
 The platform I use to write PDDL template and solve the problems is PDDL Editor: https://editor.planning.domains/.
 
-
 In the main interface, you can edit PDDL files directly or upload PDDL files you've prepared locally.
+![1730702380065](https://github.com/user-attachments/assets/40e34f8a-5f8b-4d04-8433-d1c6b13db6f2)
 
 
 Once you've prepared the domain and problem PDDL files, click on 'Solver' in the menu. Select the domain and problem files, choose a solver, and then click 'Plan.' The solver will generate a solution for the problem.
+![1730702438260](https://github.com/user-attachments/assets/c9ec678c-0ceb-4c38-8a72-8b745e14c318)
+![1730702559833](https://github.com/user-attachments/assets/e3bdbbf5-34c9-4deb-9a11-229c99b2b768)
 
 
 Afterward, the solution can be saved locally as a .txt file.
+![1730702639739](https://github.com/user-attachments/assets/17995e84-76ac-4fbf-a5b5-0cc8ee164e1f)
+![1730702679479](https://github.com/user-attachments/assets/de531b74-39df-4a43-8c1a-bd54feeab278)
+
