@@ -69,7 +69,7 @@ The related files:
 * Solution: `solutions/solution_problem3.txt`
 
 ### Problem 4
-
+In this problem, I was asked to design a maze and model it. I just designed a simple linear maze.
 
 
 The related files:
